@@ -28,8 +28,8 @@ Welcome to the Book Recommendation System project! This application leverages co
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Flask
+- **Frontend:** Streamlet
+- **Backend:** Streamlet
 - **Database:** MongoDB
 - **Recommendation Algorithm:** Collaborative Filtering
 
@@ -38,21 +38,13 @@ Welcome to the Book Recommendation System project! This application leverages co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/book-recommendation-system.git
-   cd book-recommendation-system
+   git clone https://github.com/yourusername/book-recommendation-system.git](https://github.com/udhyaudhya4002/Vervebridge-Book-Recommendation.gi
 Install the required dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
-Set up your MongoDB database. Make sure to update the connection string in the application configuration.
-
-Run the application:
-
-bash
-Copy code
-python app.py
-Access the application at http://127.0.0.1:5000.
+Set up your MongoDB database. Make sure to update the connection string in the application configuration
 
 Usage
 Register an Account: Create a new user account to start using the application.
